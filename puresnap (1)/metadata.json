@@ -1,0 +1,6 @@
+{
+  "name": "PureSnap",
+  "description": "Ad-free, tracker-free media downloader, privacy web stream sniffer, audio extractor, and offline Media3 player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <external-files-path name="puresnap_downloads" path="Download/" />
+    <external-files-path name="puresnap_all_external" path="." />
+    <files-path name="puresnap_internal" path="." />
+</paths>

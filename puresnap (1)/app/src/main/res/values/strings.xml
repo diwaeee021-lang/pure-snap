@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PureSnap</string>
+    <string name="tagline">Zero Ads. Zero Trackers. Pure Media.</string>
+    <string name="nav_home">Extract</string>
+    <string name="nav_browser">Browser</string>
+    <string name="nav_downloads">Vault</string>
+    <string name="nav_shield">Shield</string>
+    <string name="paste_hint">Paste video, audio, or page URL…</string>
+    <string name="inspect_button">Inspect Link</string>
+    <string name="paste_button">Paste</string>
+    <string name="clipboard_detected">Link found in clipboard</string>
+    <string name="empty_vault_title">Your offline vault is empty</string>
+    <string name="empty_vault_subtitle">Paste a media link or browse an open portal to download videos and audio with zero trackers.</string>
+</resources>
